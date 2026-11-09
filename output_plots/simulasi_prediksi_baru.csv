@@ -1,0 +1,4 @@
+Profil Kasus,Tipe,Brand,CPU Cores/Tier,RAM,Storage,GPU Tier / VRAM,Estimasi Harga (USD)
+Laptop Mahasiswa Hemat (Budget Student),Laptop,Acer,6 cores (Tier 2),16 GB,512 GB SSD,Tier 1 (0GB),"$1,103.77"
+PC Desktop Creator & Gaming Menengah,Desktop,MSI,12 cores (Tier 4),32 GB,1024 GB NVMe,Tier 4 (8GB),"$2,028.92"
+Workstation Flagship Performa Ekstrem,Desktop,Dell,24 cores (Tier 6),64 GB,2048 GB NVMe,Tier 6 (16GB),"$3,077.05"

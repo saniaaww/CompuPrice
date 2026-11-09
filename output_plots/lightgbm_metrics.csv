@@ -1,0 +1,2 @@
+Algoritma,MAE (USD),MSE (USD²),RMSE (USD),MAPE (%),R² Test,R² Train,5-Fold CV R²
+LightGBM Regressor,138.71,39333.46,198.33,7.37,0.8809,0.8681,0.8484
